@@ -1,0 +1,432 @@
+[
+  {
+    "id": "41ae2163-da56-4319-a57a-4f94670b5cc6",
+    "title": "Базы данных",
+    "points": 307,
+    "skills": [
+      {
+        "id": "aec8c8df-7c95-45e8-b2ec-24483677268b",
+        "title": "SQL",
+        "isExpandable": false,
+        "points": 135,
+        "experience": {
+          "points": {
+            "basic": 132,
+            "intermediate": 287,
+            "advanced": 492,
+            "expert": 700
+          }
+        },
+        "skills": [
+          {
+            "id": "0b63cf8c-60d7-4a2a-946f-5673dc1ca8d0",
+            "title": "Основы запросов",
+            "isExpandable": false,
+            "points": 49,
+            "experience": {
+              "points": {
+                "basic": 40,
+                "intermediate": 72,
+                "advanced": 115,
+                "expert": 160
+              }
+            },
+            "skills": [
+              {
+                "id": "f7a7762c-0a22-46cd-bb41-10098d96a2df",
+                "title": "Условия и фильтрация данных",
+                "isExpandable": false,
+                "points": 16,
+                "experience": {
+                  "points": {
+                    "basic": 12,
+                    "intermediate": 22,
+                    "advanced": 35,
+                    "expert": 50
+                  }
+                }
+              },
+              {
+                "id": "7bd61486-33d8-4745-b281-111afb3fa082",
+                "title": "Сортировка и группировка",
+                "isExpandable": false,
+                "points": 10,
+                "experience": {
+                  "points": {
+                    "basic": 10,
+                    "intermediate": 20,
+                    "advanced": 35,
+                    "expert": 50
+                  }
+                }
+              },
+              {
+                "id": "7155e7e0-ba4b-4ae8-8319-acd2486ea076",
+                "title": "Функции агрегирования",
+                "isExpandable": false,
+                "points": 23,
+                "experience": {
+                  "points": {
+                    "basic": 18,
+                    "intermediate": 30,
+                    "advanced": 45,
+                    "expert": 60
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "bc7044c6-4f8c-45d6-aff0-96a7ed6e41a6",
+            "title": "Управление данными",
+            "isExpandable": false,
+            "points": 33,
+            "experience": {
+              "points": {
+                "basic": 33,
+                "intermediate": 75,
+                "advanced": 132,
+                "expert": 195
+              }
+            },
+            "skills": [
+              {
+                "id": "ec84d808-b73d-47af-87f4-8b8def358aea",
+                "title": "CRUD операции над таблицами",
+                "isExpandable": false,
+                "points": 17,
+                "experience": {
+                  "points": {
+                    "basic": 15,
+                    "intermediate": 25,
+                    "advanced": 40,
+                    "expert": 55
+                  }
+                }
+              },
+              {
+                "id": "a9497b3e-7045-420c-8841-18eb549bf1aa",
+                "title": "Использование индексов",
+                "isExpandable": false,
+                "points": 0,
+                "experience": {
+                  "points": {
+                    "basic": 8,
+                    "intermediate": 25,
+                    "advanced": 42,
+                    "expert": 60
+                  }
+                }
+              },
+              {
+                "id": "e728ebe8-40d8-4f22-bee1-ffe27afb0d53",
+                "title": "Управление транзакциями",
+                "isExpandable": false,
+                "points": 16,
+                "experience": {
+                  "points": {
+                    "basic": 10,
+                    "intermediate": 25,
+                    "advanced": 50,
+                    "expert": 80
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2f13de8c-588b-4734-98ae-28b572626925",
+            "title": "Продвинутые концепции",
+            "isExpandable": false,
+            "points": 34,
+            "experience": {
+              "points": {
+                "basic": 43,
+                "intermediate": 95,
+                "advanced": 170,
+                "expert": 245
+              }
+            },
+            "skills": [
+              {
+                "id": "a16ecc4a-3955-44ae-aac8-b9dfb164187e",
+                "title": "Хранимые процедуры",
+                "isExpandable": false,
+                "points": 13,
+                "experience": {
+                  "points": {
+                    "basic": 8,
+                    "intermediate": 20,
+                    "advanced": 45,
+                    "expert": 60
+                  }
+                }
+              },
+              {
+                "id": "bc72db5d-4d8e-4d94-a46b-6f74fb1151de",
+                "title": "Триггеры и события",
+                "isExpandable": false,
+                "points": 21,
+                "experience": {
+                  "points": {
+                    "basic": 15,
+                    "intermediate": 30,
+                    "advanced": 45,
+                    "expert": 60
+                  }
+                }
+              },
+              {
+                "id": "25b77eb4-1542-4ac8-82ea-5ae68ea5c038",
+                "title": "Работа с представлениями",
+                "isExpandable": false,
+                "points": 0,
+                "experience": {
+                  "points": {
+                    "basic": 12,
+                    "intermediate": 25,
+                    "advanced": 40,
+                    "expert": 65
+                  }
+                }
+              },
+              {
+                "id": "516169e8-408e-48ee-a840-77bd74c2deb2",
+                "title": "Оптимизация запросов",
+                "isExpandable": false,
+                "points": 0,
+                "experience": {
+                  "points": {
+                    "basic": 8,
+                    "intermediate": 20,
+                    "advanced": 40,
+                    "expert": 60
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "ae4a8f06-0d10-4670-aa30-23c6f50d3bab",
+            "title": "Безопасность и доступ",
+            "isExpandable": false,
+            "points": 19,
+            "experience": {
+              "points": {
+                "basic": 16,
+                "intermediate": 45,
+                "advanced": 75,
+                "expert": 100
+              }
+            },
+            "skills": [
+              {
+                "id": "6ddc9748-9769-45d3-b8aa-c2ac5c4d4a25",
+                "title": "Управление пользователями и ролями",
+                "isExpandable": false,
+                "points": 6,
+                "experience": {
+                  "points": {
+                    "basic": 6,
+                    "intermediate": 20,
+                    "advanced": 30,
+                    "expert": 40
+                  }
+                }
+              },
+              {
+                "id": "5550f3d7-b81d-478b-8c93-e1fb3be5110c",
+                "title": "Безопасность данных и шифрование",
+                "isExpandable": false,
+                "points": 13,
+                "experience": {
+                  "points": {
+                    "basic": 10,
+                    "intermediate": 25,
+                    "advanced": 45,
+                    "expert": 60
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "d0641b14-0696-4137-855f-0cd332a13cff",
+        "title": "MongoDB",
+        "isExpandable": false,
+        "points": 172,
+        "experience": {
+          "points": {
+            "basic": 90,
+            "intermediate": 197,
+            "advanced": 331,
+            "expert": 475
+          }
+        },
+        "skills": [
+          {
+            "id": "dd5fad41-e618-4ff0-8f66-e861e4433116",
+            "title": "Основы MongoDB",
+            "isExpandable": false,
+            "points": 78,
+            "experience": {
+              "points": {
+                "basic": 50,
+                "intermediate": 108,
+                "advanced": 161,
+                "expert": 225
+              }
+            },
+            "skills": [
+              {
+                "id": "0275cee8-816a-4cb2-848e-53ef4784b537",
+                "title": "CRUD операции",
+                "isExpandable": false,
+                "points": 19,
+                "experience": {
+                  "points": {
+                    "basic": 10,
+                    "intermediate": 30,
+                    "advanced": 45,
+                    "expert": 60
+                  }
+                }
+              },
+              {
+                "id": "6173dbdb-1f86-40c8-9a36-e1cbd7dd02df",
+                "title": "Запросы и фильтрация данных",
+                "isExpandable": false,
+                "points": 10,
+                "experience": {
+                  "points": {
+                    "basic": 10,
+                    "intermediate": 22,
+                    "advanced": 33,
+                    "expert": 44
+                  }
+                }
+              },
+              {
+                "id": "aac2b9f4-4496-46e2-a0c3-5ff256cddc24",
+                "title": "Агрегация данных",
+                "isExpandable": false,
+                "points": 19,
+                "experience": {
+                  "points": {
+                    "basic": 11,
+                    "intermediate": 19,
+                    "advanced": 30,
+                    "expert": 45
+                  }
+                }
+              },
+              {
+                "id": "fb0a28e1-c34a-4489-8fd2-bca702198cd6",
+                "title": "Индексы",
+                "isExpandable": false,
+                "points": 21,
+                "experience": {
+                  "points": {
+                    "basic": 10,
+                    "intermediate": 20,
+                    "advanced": 30,
+                    "expert": 40
+                  }
+                }
+              },
+              {
+                "id": "91355d1e-32d8-424e-816e-53069946cfb0",
+                "title": "Проекции",
+                "isExpandable": false,
+                "points": 9,
+                "experience": {
+                  "points": {
+                    "basic": 9,
+                    "intermediate": 17,
+                    "advanced": 23,
+                    "expert": 36
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2f5a4654-5afc-46be-804b-851940c28958",
+            "title": "Администрирование MongoDB",
+            "isExpandable": false,
+            "points": 94,
+            "experience": {
+              "points": {
+                "basic": 40,
+                "intermediate": 89,
+                "advanced": 170,
+                "expert": 250
+              }
+            },
+            "skills": [
+              {
+                "id": "6746ed75-e076-4a3f-9c1d-6afc267a107f",
+                "title": "Шардинг и репликация",
+                "isExpandable": false,
+                "points": 34,
+                "experience": {
+                  "points": {
+                    "basic": 10,
+                    "intermediate": 30,
+                    "advanced": 65,
+                    "expert": 90
+                  }
+                }
+              },
+              {
+                "id": "9f2a0bf6-b4af-406c-941d-b04e378b7dce",
+                "title": "Мониторинг и профилирование",
+                "isExpandable": false,
+                "points": 20,
+                "experience": {
+                  "points": {
+                    "basic": 11,
+                    "intermediate": 20,
+                    "advanced": 35,
+                    "expert": 50
+                  }
+                }
+              },
+              {
+                "id": "b7eb9ab4-24c6-4bb4-a8ca-9bc4200cc7c3",
+                "title": "Синхронизация данных",
+                "isExpandable": false,
+                "points": 19,
+                "experience": {
+                  "points": {
+                    "basic": 8,
+                    "intermediate": 18,
+                    "advanced": 35,
+                    "expert": 50
+                  }
+                }
+              },
+              {
+                "id": "c8876cec-8f28-47e9-b708-d00e2ab7e211",
+                "title": "Настройка безопасности",
+                "isExpandable": false,
+                "points": 21,
+                "experience": {
+                  "points": {
+                    "basic": 11,
+                    "intermediate": 21,
+                    "advanced": 35,
+                    "expert": 60
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "skillset": "Базы данных",
+    "tasks": [
+      {
+        "topSkill": "MongoDB",
+        "mainSkills": [
+          {
+            "skill": "Основы MongoDB",
+            "tasks": [
+              {
+                "id": 1,
+                "title": "Индексы, агрегация и проекции. Проверь свои знания",
+                "slug": "индексы-агрегация-и-проекции-проверь-свои-знания-816e0cbe",
+                "difficulty": "Advanced Level",
+                "isPassed": true,
+                "type": "quiz",
+                "totalQuestions": 10
+              },
+              {
+                "id": 2,
+                "title": "Первые шаги к освоению базы данных MongoDB",
+                "slug": "первые-шаги-к-освоению-базы-данных-mongodb-7bf64545",
+                "difficulty": "Basic Knowledge",
+                "isPassed": false,
+                "type": "quiz",
+                "totalQuestions": 7
+              }
+            ],
+            "order": 1
+          },
+          {
+            "skill": "Администрирование MongoDB",
+            "tasks": [
+              {
+                "id": 3,
+                "title": "Шардинга, репликации и профилирование в MongoDB",
+                "slug": "шардинга-репликации-и-профилирование-в-mongodb-cc10b59f",
+                "difficulty": "Basic Knowledge",
+                "isPassed": true,
+                "type": "quiz",
+                "totalQuestions": 6
+              },
+              {
+                "id": 4,
+                "title": "Краткое введение в настройки безопасности MongoDB",
+                "slug": "краткое-введение-в-настройки-безопасности-mongodb-f6a40be7",
+                "difficulty": "Basic Knowledge",
+                "isPassed": false,
+                "type": "quiz",
+                "totalQuestions": 6
+              }
+            ],
+            "order": 2
+          }
+        ]
+      },
+      {
+        "topSkill": "SQL",
+        "mainSkills": [
+          {
+            "skill": "Основы запросов",
+            "tasks": [
+              {
+                "id": 5,
+                "title": "Мастер фильтров: WHERE, BETWEEN и ещё парочка",
+                "slug": "мастер-фильтров-where-between-и-ещё-парочка-0c584413",
+                "difficulty": "Basic Knowledge",
+                "isPassed": false,
+                "type": "quiz",
+                "totalQuestions": 7
+              },
+              {
+                "id": 6,
+                "title": "Блиц опрос по функциям агрегирования",
+                "slug": "блиц-опрос-по-функциям-агрегирования-38309fbb",
+                "difficulty": "Basic Knowledge",
+                "isPassed": true,
+                "type": "quiz",
+                "totalQuestions": 8
+              }
+            ],
+            "order": 1
+          }
+        ]
+      }
+    ]
+  }
+]

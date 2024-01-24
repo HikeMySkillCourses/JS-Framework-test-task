@@ -1,0 +1,95 @@
+{
+  "title": "Шардинга, репликации и профилирование в MongoDB",
+  "skillset": "Базы данных",
+  "difficulty": "Basic Knowledge",
+  "totalQuestions": 3,
+  "questions": [
+    {
+      "id": "7f13f855-fe92-4afd-8d0c-68de85cf4f8f",
+      "title": "Какие типы репликации поддерживает MongoDB?",
+      "skill": "Шардинг и репликация",
+      "answers": [
+        {
+          "id": "3fc71635-4a46-41b7-ab74-7e1873b307ee",
+          "title": "Single Node и Distributed Replication"
+        },
+        {
+          "id": "608ddff0-38e6-4c36-bd25-6817c8e05aa4",
+          "title": "Sharded Replication и Peer-to-Peer"
+        },
+        {
+          "id": "69083c4c-d1ab-407c-99e6-11dca4a37a33",
+          "title": "Primary-Secondary и Clustered Replication"
+        },
+        {
+          "id": "cfc2068b-167e-4507-9f25-f6c0d5d38282",
+          "title": "Master-Slave и Replica Set"
+        }
+      ]
+    },
+    {
+      "id": "880cdc00-9253-44d3-a49d-167b52c52ece",
+      "title": "Какие инструменты используются для профилирования в MongoDB?",
+      "skill": "Мониторинг и профилирование",
+      "answers": [
+        {
+          "id": "09564f24-eebd-4eda-a61d-d9c30cfec2e2",
+          "title": "`mongoexport()`, `mongodump()` и `mongorestore()`"
+        },
+        {
+          "id": "4543728d-d6fe-49ad-8df0-aafb5b7de99b",
+          "title": "`db.collection.stats()`, `db.collection.drop()` и `db.collection.rename()`"
+        },
+        {
+          "id": "b7f92e69-958d-4a19-8e5c-b7dee88bbfe8",
+          "title": "`db.collection.aggregate()`, `db.collection.find()` и `db.collection.update()`"
+        },
+        {
+          "id": "bad4cace-ac4f-441b-80e0-bfd260fbc5ad",
+          "title": "`explain()`, `db.collection.explain()`, и `db.setProfilingLevel()`"
+        }
+      ]
+    },
+    {
+      "id": "8c6262a5-eb08-4a33-b5cd-5158e2a21fc9",
+      "title": "Какие основные преимущества использования шардинга в MongoDB?",
+      "skill": "Шардинг и репликация",
+      "answers": [
+        {
+          "id": "9bba64b8-3c4f-4637-9416-6e5908581ad8",
+          "title": "Преимущества включают горизонтальное масштабирование, повышенную производительность, балансировку нагрузки, распределение данных по разным узлам"
+        },
+        {
+          "id": "9e0f8754-185e-4d42-b6da-20ef4218e24e",
+          "title": "Основное преимущество шардинга - это автоматическое масштабирование по вертикали для увеличения производительности"
+        },
+        {
+          "id": "ab59fd06-86b2-4f40-ab6d-1e86c7d4c02c",
+          "title": "Шардинг используется для упрощения процесса резервного копирования данных и защиты от потери информации"
+        },
+        {
+          "id": "eaa6a9b3-0e87-4337-b14d-62f292056c2e",
+          "title": "Шардинг упрощает структуру данных, уменьшает количество дублирования информации и улучшает безопасность базы данных"
+        }
+      ]
+    }
+  ],
+  "resources": [],
+  "result": [
+    {
+      "questionId": "7f13f855-fe92-4afd-8d0c-68de85cf4f8f",
+      "answerId": "cfc2068b-167e-4507-9f25-f6c0d5d38282",
+      "isCorrect": true
+    },
+    {
+      "questionId": "880cdc00-9253-44d3-a49d-167b52c52ece",
+      "answerId": "bad4cace-ac4f-441b-80e0-bfd260fbc5ad",
+      "isCorrect": true
+    },
+    {
+      "questionId": "8c6262a5-eb08-4a33-b5cd-5158e2a21fc9",
+      "answerId": "9bba64b8-3c4f-4637-9416-6e5908581ad8",
+      "isCorrect": true
+    }
+  ]
+}

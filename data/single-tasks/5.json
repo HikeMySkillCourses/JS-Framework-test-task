@@ -1,0 +1,102 @@
+{
+  "title": "Мастер фильтров: WHERE, BETWEEN и ещё парочка",
+  "skillset": "Базы данных",
+  "difficulty": "Basic Knowledge",
+  "totalQuestions": 4,
+  "questions": [
+    {
+      "id": "3ac4f7d8-fa79-40d3-8b9c-6adca3e29105",
+      "title": "Какие операторы используются для выполнения сравнения строк в SQL?",
+      "skill": "Условия и фильтрация данных",
+      "answers": [
+        {
+          "id": "3f1a6981-341b-4d1c-b02d-2f53b4bd5fea",
+          "title": "`ANY`, `ALL`"
+        },
+        {
+          "id": "6cc722cc-c5d6-4a8c-a0b9-fb6ae17278f2",
+          "title": "`BETWEEN`, `EXISTS`"
+        },
+        {
+          "id": "f180be7a-3d2b-4f22-a425-2e2f73975e17",
+          "title": "`LIKE`, `IN`, `NOT IN`"
+        },
+        {
+          "id": "fc2998bc-2535-40f4-aaa7-8f5869b2a938",
+          "title": "`IS NULL`, `IS NOT NULL`"
+        }
+      ]
+    },
+    {
+      "id": "5b51f1d9-3607-4039-8cae-056b40ce5bef",
+      "title": "Что делает оператор `NOT IN`?",
+      "skill": "Условия и фильтрация данных",
+      "answers": [
+        {
+          "id": "0bafcd78-b0d0-4288-8b9c-a34d431a05b2",
+          "title": "Исключает значения, присутствующие в заданном списке значений"
+        },
+        {
+          "id": "4f0ae770-d7be-46ce-9bee-8b518cbf7eee",
+          "title": "Исключает значения `NULL` из результатов запроса"
+        },
+        {
+          "id": "82bcbe9a-d07b-4157-97c1-d7d000eaab68",
+          "title": "Исключает значения, удовлетворяющие условию"
+        },
+        {
+          "id": "86fc2152-9eff-413d-a94c-a7933fd00839",
+          "title": "Исключает повторяющиеся значения из результирующего набора"
+        }
+      ]
+    },
+    {
+      "id": "79beb34c-df73-4d69-9095-489a939c1c66",
+      "title": "Какие операторы можно использовать для фильтрации данных в SQL?",
+      "skill": "Сортировка и группировка",
+      "answers": [
+        {
+          "id": "0efec03a-fcfd-41e1-9d73-7711022cbf86",
+          "title": "`WHERE`, `HAVING`, `TOP`, `LIMIT`"
+        },
+        {
+          "id": "77d61fa5-7e56-407d-be1c-b5919c769190",
+          "title": "`SELECT`, `FROM`, `INTO`, `DELETE`"
+        },
+        {
+          "id": "93cf9888-07ea-4401-8807-33886fd6476d",
+          "title": "`ORDER BY`, `GROUP BY`, `DISTINCT`, `AS`"
+        },
+        {
+          "id": "fb21de70-0df0-4e83-9a07-d850adb257c0",
+          "title": "`JOIN`, `UNION`, `INTERSECT`, `EXCEPT`"
+        }
+      ]
+    },
+    {
+      "id": "b09eb6cf-dc94-4645-bce9-87a8e07f038c",
+      "title": "Какой оператор SQL используется для фильтрации данных на основе паттернов символов?",
+      "skill": "Условия и фильтрация данных",
+      "answers": [
+        {
+          "id": "1fa554e1-2d94-4a96-adee-5da1f54f7ea8",
+          "title": "`LIKE`"
+        },
+        {
+          "id": "5d3c3546-6a39-4e6a-950b-61c57c3be45c",
+          "title": "`BETWEEN`"
+        },
+        {
+          "id": "c6b597cb-ae38-42f8-a6bd-f0df5912993d",
+          "title": "`IS NULL`"
+        },
+        {
+          "id": "d3d425b3-6259-40cb-9e0a-145d9734f4a4",
+          "title": "`IN`"
+        }
+      ]
+    }
+  ],
+  "resources": [],
+  "result": []
+}
